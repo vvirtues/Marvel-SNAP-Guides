@@ -1,3 +1,4 @@
+theme: cayman
 plugins:
   - jekyll-relative-links
 relative_links:
